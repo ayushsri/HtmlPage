@@ -1,0 +1,21 @@
+.header
+{
+    overflow: hidden;
+}
+.heading
+{
+    float: left;
+    text-indent: 280px;
+}
+.rightHeading{
+    float: left;
+    text-indent: 400px;
+}
+span
+{
+    color:lightseagreen;
+}
+.width
+{
+    width:100%;
+}
