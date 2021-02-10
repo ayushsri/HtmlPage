@@ -1,10 +1,12 @@
+/* box model used for padding and making buttons*/
+
 .border{
     padding: 10px;
     width: 100%;
     border: 1px solid gray;
 }
 
-
+/* designing green buttons*/
 
 .button1 {
     background-color: lightseagreen; /* Green */
@@ -18,19 +20,41 @@
     margin: 4px 2px;
     cursor: pointer;
 }
+/* designing white buttons*/
+.button4 {
+    background-color: white; /* Green */
+    border: none;
+    color: lightseagreen;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+/* radius of  white buttons*/
 
 .button2 {border-radius: 30px;}
 
-
-
-.borderq{
-
-    border: 3px solid lightseagreen;
+/* radius of  white buttons*/
+.bor{
+    border: 3px solid white;
     border-radius: 3px;
     display: inline-block;
     padding-left: 4px;
     padding-right: 4px;
 }
+/* Bordering of question mark*/
+.borderq{
+    border: 3px solid lightseagreen;
+    border-radius: 3px;
+    display: inline-block;
+    padding-left: 4px;
+    padding-right: 4px;
+
+}
+/* Bordering of question mark*/
 .bp{
     border: 3px solid black;
     border-radius: 3px;
@@ -38,6 +62,7 @@
     padding-left: 4px;
     padding-right: 4px;
 }
+
 .a3{
     /* Green */
 

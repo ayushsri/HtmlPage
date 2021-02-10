@@ -1,3 +1,4 @@
+/*setting pseudo elements */
 ::selection {
     color: red;
     background: yellow;

@@ -1,20 +1,25 @@
+/*setting the design of header*/
 .header
 {
     overflow: hidden;
 }
+/*make heading float left*/
 .heading
 {
     float: left;
     text-indent: 280px;
 }
+/*make heading float left*/
 .rightHeading{
     float: left;
     text-indent: 400px;
 }
+/*set colour of span*/
 span
 {
     color:lightseagreen;
 }
+/*set width*/
 .width
 {
     width:100%;

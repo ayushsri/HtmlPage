@@ -1,7 +1,10 @@
+/*designing the text on image*/
+
 .slider{
     width: 40%;
     color: white;
 }
+/*setting font size of slide*/
 
 .slide{
     font-size:150%;

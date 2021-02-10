@@ -1,34 +1,50 @@
+/* this css page is to set color, width and margins */
+
+/*color of H1 heading*/
 H1{
     color: lightseagreen;
 }
+/*attribute to set content left*/
 .left{
     float:left;
     width: 100%;
 }
-
+/*set color to lightseagreen */
 .greencolor{
     color: lightseagreen;
 }
+/*set color to white */
+.white{
+    color: white;
+}
+/*set color to ghostwhite */
 
 .ghostwhite{
     background-color: ghostwhite;
 }
+/*set color to backgreen */
+.backgreen
+{
+    background-color: lightseagreen;
+}
 
+/*float elemet to left */
 .left1{
     float:left;
 }
-
+/*set width to 20 */
 .width20
 {
     float:left;
     width:20%;
 }
+/*set properties to footer elments */
 .footer{
     float:left;
     width:30%;
     margin-left: 10%;
 }
-
+/*set margin */
 .lmargin60{
     margin-left: 60%;
 }
@@ -74,10 +90,31 @@ H1{
 .width30{
     width: 30%;
 }
+.width5{
+    width: 5%;
+}
+.width7{
+    width: 7%;
+}
+.width8{
+    width: 8%;
+}
+
+/*set content over container */
 .container{
     position: relative;
     color: white;
 }
+.relative
+{
+    position: relative;
+}
+/*set elements properly*/
+.inline
+{
+    display: inline-flex;
+}
+
 .content{
         font-size: 200%;
 
