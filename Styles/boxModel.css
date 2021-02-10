@@ -75,3 +75,14 @@
     background-color: lightseagreen;
     width: 90%;
 }
+.a4{
+    /* Green */
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    background-color: lightseagreen;
+    width: 100%;
+}

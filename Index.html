@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html xmlns="http://www.w3.org/1999/html">
 <head>
     <meta charset="UTF-8">
     <!--title of html page-->
@@ -28,7 +28,7 @@
     <hr>
     <link rel="stylesheet" href="Styles/main.css">
 </head>
-
+<body>
 <!--seting the slider image as well as writing text below it-->
 <div class="container left">
 <div class="left">
@@ -362,11 +362,13 @@
         <img src="Images/projects@2x 3.png" height="20%" width="24.6%"/>
     <img src="Images/projects@2x 4.png" height="20%" width="24.6%"/>
     </section>
-    <img src="Images/quote.png" height="80%" width="100%"/>
+
 </section>
 
 <!--Form with validation-->
-<section  class="width20" >
+<section class="container2 left">
+<img src="Images/latest blog@2x copy 3.png" height="80%" width="100%"/>
+<section  class="content2 width20 left backwhite"   >
     <section>
         <H2 align="center" class="greencolor" ><strong>Get A Instant Quote</strong></H2>
     </section >
@@ -374,7 +376,7 @@
         <!--Name, which take input of first or both fist and last name with space or without space -->
         <!--Min length 3 and max length 20-->
        <fieldset>
-            <input type="text"
+            <input height="" type="text"
                    id="name" pattern="[a-zA-Z\s]+" minlength="3" maxlength="20" placeholder="Your Name*" class="width" required>
        </fieldset>
         <fieldset>
@@ -391,9 +393,11 @@
             <textarea placeholder="MESSAGE" maxlength="180" class="width" rows="5" required></textarea>
         </fieldset>
             <fieldset>
-                  <button class="left" >Send Message</button>
+                <button class="a4">Send Message</button>
             </fieldset>
     </form>
+
+</section>
 
 </section>
 

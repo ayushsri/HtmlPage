@@ -18,7 +18,9 @@ H1{
     color: white;
 }
 /*set color to ghostwhite */
-
+.backwhite{
+    background-color: white;
+}
 .ghostwhite{
     background-color: ghostwhite;
 }
@@ -105,6 +107,9 @@ H1{
     position: relative;
     color: white;
 }
+.container2{
+    position: relative;
+}
 .relative
 {
     position: relative;
@@ -123,5 +128,27 @@ H1{
     top: 30%;
     left: 20%;
     right: 30%;
+
+}
+.content2{
+    position: absolute;
+    top: 40%;
+    left: 60%;
+    right: 30%;
+
+}
+
+input
+{
+    height:30px;
+}
+
+input[placeholder]
+{
+    line-height:30px;
+}
+input, textarea {
+
+    background-color : ghostwhite;
 
 }
