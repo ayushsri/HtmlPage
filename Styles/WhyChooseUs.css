@@ -9,3 +9,62 @@ H1{
 .greencolor{
     color: lightseagreen;
 }
+
+.ghostwhite{
+    background-color: ghostwhite;
+}
+
+.left1{
+    float:left;
+}
+
+.width20
+{
+    float:left;
+    width:20%;
+}
+.footer{
+    float:left;
+    width:30%;
+    margin-left: 10%;
+}
+
+.lmargin60{
+    margin-left: 60%;
+}
+.lmargin5{
+    margin-left: 3%;
+}
+.lmargin50{
+    margin-left: 50%;
+}
+.lmargin10{
+    margin-left: 10%;
+}
+.lmargin25{
+    margin-left: 25%;
+}
+.lmargin30{
+    margin-left: 30%;
+}
+.lmargin20{
+    margin-left: 20%;
+}
+.width100{
+    width: 100%;
+}
+.width40{
+    width: 40%;
+}
+.width70{
+    width: 70%;
+}
+.width27{
+    width: 27%;
+}
+.width20{
+    width: 20%;
+}
+.width30{
+    width: 30%;
+}
