@@ -1,0 +1,11 @@
+.brightness {
+    background-color: white;
+    display: inline-block;
+
+}
+.brightness img:hover {
+    opacity: .5;
+}
+div.a{
+    font-size: 50px;
+}

@@ -65,6 +65,23 @@ H1{
 .width20{
     width: 20%;
 }
+.width15{
+    width: 15%;
+}
 .width30{
     width: 30%;
+}
+.container{
+    position: relative;
+    color: white;
+}
+.content{
+        font-size: 200%;
+
+
+    position: absolute;
+    top: 30%;
+    left: 20%;
+    right: 30%;
+
 }
