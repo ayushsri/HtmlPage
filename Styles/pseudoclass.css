@@ -9,3 +9,8 @@
 div.a{
     font-size: 50px;
 }
+
+
+.jobs :hover {
+    border: 2px solid lightseagreen;
+}
